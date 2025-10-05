@@ -1,4 +1,0 @@
-> to used to direct create project folder 
-npm create vite@latest 07_reactRouter -- --template react
->
-npm create vite@latest 06_Context -- --template react
